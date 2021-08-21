@@ -1,0 +1,12 @@
+Basic Linux Commands:
+    1. whoami               - This command shows the current user logged in.
+    2. cd <directory>    - This command is used to change the current directory.
+    3. cd ..                     - This command brings back to the previous directory.
+    4. pwd                     - This command prints the current working directory.
+    5. mkdir                  - This command create a new directry in current directory we are in.
+    6. rm                       -  This command  is used to remove file or directory.
+    7. clear                    - This command clears the terminal.
+    8. apt update           - This command gets the new update from the server.
+    9. apt list --upgrade - This command shows the list of upgrades available.
+    10.chmod +x            - This makes the file to executable.
+    11. sudo                    - This command is used to be a super user.
